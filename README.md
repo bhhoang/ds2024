@@ -11,4 +11,4 @@ Student Info
 
 * Student Name: Bùi Huy Hoàng
 * Student ID: BI12-170
-* Student Group ID: TBD
+* Student Group ID: 12
